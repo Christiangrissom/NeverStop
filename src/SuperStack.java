@@ -9,6 +9,7 @@ public boolean isEmpty() {
 	return top==0;
 }
 public boolean isFull() {
+	
 		return top==items.length;
 	
 }
